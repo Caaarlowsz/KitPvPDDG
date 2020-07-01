@@ -1,0 +1,5 @@
+name: KitPvP
+main: nl.ddg.buildtoguess.BuildToGuess
+version: 0.1
+author: Inferides
+commands:
